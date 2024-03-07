@@ -22,7 +22,7 @@
     "build:win": "electron-builder --win"
   },
   "repository": {
-	  "url": "https://github.com/tjahbergas/tiktokapi-src"
+	  "url": "https://github.com/diennshera/tiktokdien"
   },
   "dependencies": {
     "electron-settings": "^4.0.2",
