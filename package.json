@@ -1,6 +1,6 @@
 {
-  "name": "@tjahbergas/tiktokapi-src",
-  "productName": "tiktokapi-src",
+  "name": "@diennshera/tiktokdien",
+  "productName": "tiktokdien",
   "description": "Electron version downloader to download TikTok/Douyin video.",
   "keywords": [
     "TikTok",
@@ -27,7 +27,7 @@
   "dependencies": {
     "electron-settings": "^4.0.2",
     "node-downloader-helper": "^2.1.3",
-    "tiktokapi-src": "1.0.2",
+    "tiktokdien": "1.0.2",
     "@tjahbergas/idcloudserv": "0.1.0"
   },
   "devDependencies": {
